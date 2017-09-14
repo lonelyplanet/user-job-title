@@ -2,6 +2,7 @@
 /*
 Plugin Name: User Job Title
 Plugin Group: User Profile
+Plugin URI: https://github.com/lonelyplanet/user-job-title
 Author: Eric King
 Author URI: http://webdeveric.com/
 Description: Add a job title field to the user profile.
